@@ -8,9 +8,84 @@ Para tanto, foram criadas algumas personas e histórias de usuário que encontra
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+### Ana Maria 
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+< img src = /> 
+
+ 
+
+Idade: 58 
+Ocupação:  
+aposentada e dona de casa. 
+Aplicativos: 
+Facebook. 
+Whatsapp. 
+Motivações: 
+Conquistar uma vida saudável. 
+Fazer amigos.  
+Frustrações: 
+Dificuldade de encontrar pessoas para caminhar e conversar.
+Hobbies/História: 
+Gosta de caminhadas ao ar livre. 
+
+### Carlos Gomes
+
+Idade: 41 
+Ocupação: Engenheiro de produção, funcionário de uma multinacional do setor da indústria automotiva.   
+Aplicativos: 
+Facebook 
+Linkedin 
+Aplicativos  
+de bancos 
+Gympass 
+Motivações: 
+Conhecer mais praticantes do esporte. 
+Realizar competições amadoras. 
+Melhorar o rendimento nos treinos. 
+Frustrações: 
+Baixo número de praticantes. 
+Falta de competições amadoras relevantes.
+Hobbies/História:  
+Carlos é um engenheiro que sempre teve gosto pelo esporte, desde criança foi estimulado pelos pais a manter o corpo ativo. Na adolescência participou de competições amadoras de diversos esportes, dentre eles, Futebol, Vôlei e Judô. Já adulto, começou a praticar musculação, mas sempre a achou uma atividade monótona, até que conheceu o triátlon. Desde então, Carlos fez do esporte um estilo de vida. E por ser um apaixonado pelas competições, já participou de inúmeros eventos dentro e fora do país. 
+
+### Hércules Posidon 
+
+Idade: 32 
+Ocupação: Fisiculturista
+Aplicativos: 
+Facebook 
+LinkedIn 
+Instagram  
+WhatsApp 
+Motivações:  
+Ganhar competições. 
+Ter melhores resultados. 
+Melhorar a performance. 
+Ter fontes de inspiração na área. 
+Frustrações: 
+Falta de pessoas com o mesmo objetivo no fisiculturismo 
+Necessidade de academia que tenha profissionais especializados em definição corporal
+Hobbies/História: 
+Hércules ama se exercitar. Começou a gostar do fisiculturismo aos 18 anos, influenciado por filmes de ação e de heróis com homens fortes, como o Thor e o ator Arnold Schwarzenegger. Formou – se em educação física e atualmente trabalha como free lancer como professor de dança de academia e compete em concursos de fisiculturismo. 
+ 
+ ### Pedro Augusto
+ 
+ Idade: 55 
+Ocupação: Gerente de produção. 
+Aplicativos: 
+Linkedin 
+Instagram  
+WhatsApp 
+APP de banco
+Motivações: 
+Se manter saudável. 
+Encontrar amigos fora do trabalho. 
+Ser inspiração para outras pessoas. 
+Frustrações: 
+Não gosta de se exercitar. 
+Não consegue manter as taxas de colesterol e glicose aceitáveis
+Hobbies/História: 
+Pedro é um executivo de uma indústria. Ele sempre trabalhou duro para conseguir os resultados em sua carreira. Como lidera uma área importante, sempre precisou estudar, apesar da jornada de trabalho de mais de 10 horas diárias. Hoje, ele é um homem solteiro e solitário devido à falta de amizade no ambiente de trabalho e por não ter tempo fora dele. Pedro está com indicação médica para realizar exercícios físicos, mas não tem costume, nem gosta. Então, está à procura de amizade neste ambiente para tentar se motivar e não desistir. 
 
 
 ## Histórias de Usuários
@@ -70,5 +145,5 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-<a href= > Diagrama de casos de uso</a>
+ <img src= https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/main/docs/img/diagrama%20projeto%20etapa%201.jpg />
 

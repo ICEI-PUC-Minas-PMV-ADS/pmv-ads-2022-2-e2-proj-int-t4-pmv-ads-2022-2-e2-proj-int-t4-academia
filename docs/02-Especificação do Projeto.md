@@ -74,7 +74,7 @@ Hércules ama se exercitar. Começou a gostar do fisiculturismo aos 18 anos, inf
  
  ### Pedro Augusto
  
-  <img />
+  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/da917e0989502f883118bd201542cdacd8dc3717/docs/img/Pedro%20%20Augusto.png />
   
  Idade: 55 
 Ocupação: Gerente de produção. 

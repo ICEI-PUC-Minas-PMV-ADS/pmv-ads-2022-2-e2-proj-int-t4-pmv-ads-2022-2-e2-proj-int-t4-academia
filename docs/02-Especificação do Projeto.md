@@ -10,7 +10,7 @@ Para tanto, foram criadas algumas personas e histórias de usuário que encontra
 
 ### Ana Maria 
 
-< img src = /> 
+<img src=  /> 
 
  
 
@@ -29,6 +29,8 @@ Hobbies/História:
 Gosta de caminhadas ao ar livre. 
 
 ### Carlos Gomes
+
+<img src= />
 
 Idade: 41 
 Ocupação: Engenheiro de produção, funcionário de uma multinacional do setor da indústria automotiva.   
@@ -50,6 +52,8 @@ Carlos é um engenheiro que sempre teve gosto pelo esporte, desde criança foi e
 
 ### Hércules Posidon 
 
+<img src= />
+
 Idade: 32 
 Ocupação: Fisiculturista
 Aplicativos: 
@@ -70,6 +74,8 @@ Hércules ama se exercitar. Começou a gostar do fisiculturismo aos 18 anos, inf
  
  ### Pedro Augusto
  
+  <img />
+  
  Idade: 55 
 Ocupação: Gerente de produção. 
 Aplicativos: 

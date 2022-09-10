@@ -10,7 +10,7 @@ Para tanto, foram criadas algumas personas e histórias de usuário que encontra
 
 ### Ana Maria 
 
-<img src=  /> 
+<img src= https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/bde1cf45c5765d40e14d0c12a705970a52b6ee14/docs/img/Ana%20Maria.jpg /> 
 
  
 

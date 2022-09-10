@@ -30,7 +30,7 @@ Gosta de caminhadas ao ar livre.
 
 ### Carlos Gomes
 
-<img src= />
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/beecd28ad7a9596b5d322b105cca7de0e49487cd/docs/img/Carlos%20Gomes.jpg />
 
 Idade: 41 
 Ocupação: Engenheiro de produção, funcionário de uma multinacional do setor da indústria automotiva.   

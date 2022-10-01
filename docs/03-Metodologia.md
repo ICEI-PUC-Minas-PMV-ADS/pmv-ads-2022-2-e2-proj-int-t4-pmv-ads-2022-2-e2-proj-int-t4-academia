@@ -9,6 +9,19 @@ No que diz respeito a esse segundo ponto, o grupo se organiza em reuniões seman
 
 Como o Trello permite anotar a quem compete cada tarefa pendente e pode ser atualizado individualmente pelos membros designados, caberá a cada membro realizar suas tarefas (to do) e depois atualizar o Trello, marcando-as como realizadas (done). Isso contribui para manter um quadro nítido daquilo que está sendo feito e do que ainda há por fazer. Além disso, também permite registrar as ações individuais dos membros do grupo. Assim, as atividades que estão no backlog   
 
+## Relação de ambientes de trabalho 
+
+ 
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir.  
+
+|Ambiente| Plataforma|Link de Acesso |
+--------- -----------  --------------
+|Repositório de código fonte|Git Hub|    |
+Documentos do Projeto|GoogleDrive |  | 
+|Projeto de Interface e Wireframes| MarvelApp|   | 
+|Gerenciamento do Projeto| Trello|     |
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o

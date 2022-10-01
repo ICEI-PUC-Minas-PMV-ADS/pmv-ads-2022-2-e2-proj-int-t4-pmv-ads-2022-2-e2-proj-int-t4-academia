@@ -17,7 +17,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 
 |Ambiente| Plataforma|Link de Acesso |
 |---------| ----------- |  --------------|
-|Repositório de código fonte|Git Hub|    |
+|Repositório de código fonte|Git Hub|  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia  |
 Documentos do Projeto|GoogleDrive |  | 
 |Projeto de Interface e Wireframes| MarvelApp|   | 
 |Gerenciamento do Projeto| Trello|   https://trello.com/b/Y0TsILAi/projeto-academia  |

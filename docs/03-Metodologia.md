@@ -16,11 +16,11 @@ Como o Trello permite anotar a quem compete cada tarefa pendente e pode ser atua
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir.  
 
 |Ambiente| Plataforma|Link de Acesso |
---------- -----------  --------------
+|---------| ----------- |  --------------|
 |Repositório de código fonte|Git Hub|    |
 Documentos do Projeto|GoogleDrive |  | 
 |Projeto de Interface e Wireframes| MarvelApp|   | 
-|Gerenciamento do Projeto| Trello|     |
+|Gerenciamento do Projeto| Trello|   https://trello.com/b/Y0TsILAi/projeto-academia  |
 
 ## Controle de Versão
 
@@ -50,58 +50,47 @@ A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para def
 
 A equipe está organizada da seguinte maneira: 
 
-### Scrum Master: Edglei Marques 
-
-### Product Owner: Stephanie Ingrid 
-
+### Scrum Master: 
+Edglei Marques 
+### Product Owner: 
+Stephanie Ingrid 
 ### Equipe de Desenvolvimento :
-
 Bruno Victor De Oliveira 
 
 Renato Conceição Silva 
 
 Josyane Luiza Cupertino  
 
+
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:   
 
-Recursos: essa lista mantém templates de tarefas recorrentes com as configurações padronizadas que todos deverão seguir. O objetivo é permitir a cópia desses templates para agilizar a criação de novos cartões. 
-Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a essa lista. 
-To do: essa lista representa o Sprint Backlog. Trata-se do Sprint atual em que estamos trabalhando. 
-Doing: quando uma tarefa tiver sido iniciada, ela será movida para cá. 
-Test: trata-se da checagem de qualidade. Quando as tarefas são concluídas, eles serão movidas para o “CQ”. No final da semana, essa lista será revista para garantir que tudo saia perfeitamente. 
-Done: nessa lista são colocadas as tarefas que passaram pelos testes de controle de qualidade e que estão prontas para serem entregues ao usuário. Não há mais edições ou revisões a serem feitas aqui, sendo que as tarefas podem ser agendadas por estarem prontas para a ação.
+### Recursos:
+essa lista mantém templates de tarefas recorrentes com as configurações padronizadas que todos deverão seguir. O objetivo é permitir a cópia desses templates para agilizar a criação de novos cartões. 
+
+### Backlog: 
+recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a essa lista. 
+### To do: 
+essa lista representa o Sprint Backlog. Trata-se do Sprint atual em que estamos trabalhando. 
+### Doing: 
+quando uma tarefa tiver sido iniciada, ela será movida para cá. 
+### Test: 
+trata-se da checagem de qualidade. Quando as tarefas são concluídas, eles serão movidas para o “CQ”. No final da semana, essa lista será revista para garantir que tudo saia perfeitamente. 
+### Done: 
+nessa lista são colocadas as tarefas que passaram pelos testes de controle de qualidade e que estão prontas para serem entregues ao usuário. Não há mais edições ou revisões a serem feitas aqui, sendo que as tarefas podem ser agendadas por estarem prontas para a ação.
 
 
 O quadro kanban do grupo no Trello — disponível através da URL <a href=https://trello.com/b/Y0TsILAi/projeto-academia> LINK DO QUADRO </a> — é apresentado, no estado atual, na Figura abaixo. A definição dessa estrutura se baseou na proposta feita por Littlefield (2016).
+
+A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias: 
+
+ -Documentação 
+
+-Desenvolvimento 
+
+-Infraestrutura 
+
+-Testes 
+
+-Gerência de Projetos
  
- 
 
-### Processo
-
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
-
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)

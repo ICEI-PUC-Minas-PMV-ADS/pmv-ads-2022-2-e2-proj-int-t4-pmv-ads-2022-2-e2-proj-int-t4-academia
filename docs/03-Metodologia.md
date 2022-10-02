@@ -3,7 +3,24 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia contempla as definições das ferramentas utilizadas pela equipe tanto para a manutenção dos códigos e demais artefatos, quanto para a organização do time na execução das tarefas do projeto. 
+
+No que diz respeito a esse segundo ponto, o grupo se organiza em reuniões semanais (sprint) que buscam discutir, organizar e estabelecer tarefas a curto prazo, bem como atualizar o estado atual do projeto em relação aos objetivos de longo prazo. Para tanto, é utilizado como recurso o Trello, que permite um registro das várias atividades e artefatos do projeto na forma de etiquetas que podem ser movidas de maneira a mostrar aquilo que já foi realizado (done) e aquilo que segue pendente e será realizado durante a semana, de acordo com o plano de sprint (to do).  
+
+Como o Trello permite anotar a quem compete cada tarefa pendente e pode ser atualizado individualmente pelos membros designados, caberá a cada membro realizar suas tarefas (to do) e depois atualizar o Trello, marcando-as como realizadas (done). Isso contribui para manter um quadro nítido daquilo que está sendo feito e do que ainda há por fazer. Além disso, também permite registrar as ações individuais dos membros do grupo. Assim, as atividades que estão no backlog   
+
+## Relação de ambientes de trabalho 
+
+ 
+
+Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela a seguir.  
+
+|Ambiente| Plataforma|Link de Acesso |
+|---------| ----------- |  --------------|
+|Repositório de código fonte|Git Hub|  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia  |
+Documentos do Projeto|Draw.io  e Pasta Src do projeto| https://app.diagrams.net/#HICEI-PUC-Minas-PMV-ADS%2Fpmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia%2Fmain%2Fsrc%2FDiagrama_de_Classes.drawio e [pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/src/](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/tree/main/src) | 
+|Projeto de Interface e Wireframes| Figma|  https://www.figma.com/file/aXiLKAsuXGIsSiGctHkWxe/Tela-de-Cadastro?node-id=0%3A1 | 
+|Gerenciamento do Projeto| Trello|   https://trello.com/b/Y0TsILAi/projeto-academia  |
 
 ## Controle de Versão
 
@@ -26,52 +43,56 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-Discuta como a configuração do projeto foi feita na ferramenta de versionamento escolhida. Exponha como a gerência de tags, merges, commits e branchs é realizada. Discuta como a gerência de issues foi realizada.
-
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
->  - [Comparando fluxos de trabalho](https://www.atlassian.com/br/git/tutorials/comparing-workflows)
-> - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-> - [The gitflow workflow - in less than 5 mins](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. Ela está organizada da seguinte maneira: 
 
-Apresente a divisão de papéis entre os membros do grupo.
+A equipe está organizada da seguinte maneira: 
 
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+### Scrum Master: 
+Edglei Marques 
+### Product Owner: 
+Stephanie Ingrid 
+### Equipe de Desenvolvimento :
+Bruno Victor De Oliveira 
 
-### Processo
+Renato Conceição Silva 
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
+Josyane Luiza Cupertino  
+
+
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:   
+
+### Recursos:
+essa lista mantém templates de tarefas recorrentes com as configurações padronizadas que todos deverão seguir. O objetivo é permitir a cópia desses templates para agilizar a criação de novos cartões. 
+
+### Backlog: 
+recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a essa lista. 
+### To do: 
+essa lista representa o Sprint Backlog. Trata-se do Sprint atual em que estamos trabalhando. 
+### Doing: 
+quando uma tarefa tiver sido iniciada, ela será movida para cá. 
+### Test: 
+trata-se da checagem de qualidade. Quando as tarefas são concluídas, eles serão movidas para o “CQ”. No final da semana, essa lista será revista para garantir que tudo saia perfeitamente. 
+### Done: 
+nessa lista são colocadas as tarefas que passaram pelos testes de controle de qualidade e que estão prontas para serem entregues ao usuário. Não há mais edições ou revisões a serem feitas aqui, sendo que as tarefas podem ser agendadas por estarem prontas para a ação.
+
+
+O quadro kanban do grupo no Trello — disponível através da URL <a href=https://trello.com/b/Y0TsILAi/projeto-academia> LINK DO QUADRO </a> — é apresentado, no estado atual, na Figura abaixo. A definição dessa estrutura se baseou na proposta feita por Littlefield (2016).
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/main/docs/img/quadro%20trello.jpg />
+
+A tarefas são, ainda, etiquetadas em função da natureza da atividade e seguem o seguinte esquema de cores/categorias: 
+
+ -Documentação 
+
+-Desenvolvimento 
+
+-Infraestrutura 
+
+-Testes 
+
+-Gerência de Projetos
  
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
-### Ferramentas
-
-As ferramentas empregadas no projeto são:
-
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
-
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)

@@ -18,7 +18,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |Ambiente| Plataforma|Link de Acesso |
 |---------| ----------- |  --------------|
 |Repositório de código fonte|Git Hub|  https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia  |
-Documentos do Projeto|GoogleDrive |  | 
+Documentos do Projeto|Draw.io  e Pasta Src do projeto| https://app.diagrams.net/#HICEI-PUC-Minas-PMV-ADS%2Fpmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia%2Fmain%2Fsrc%2FDiagrama_de_Classes.drawio e [pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/src/](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/tree/main/src) | 
 |Projeto de Interface e Wireframes| Figma|  https://www.figma.com/file/aXiLKAsuXGIsSiGctHkWxe/Tela-de-Cadastro?node-id=0%3A1 | 
 |Gerenciamento do Projeto| Trello|   https://trello.com/b/Y0TsILAi/projeto-academia  |
 

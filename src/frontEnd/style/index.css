@@ -40,9 +40,8 @@ aside h5{
 aside button{
     background-color:rgba(255, 146, 51, 0.938);
     columns: #fff;
-    border: #fff;
     color: #fff;
-    border: 2px #fff solid;
+    border: 3px #fff solid;
     border-radius: 10px;
     font-size: 20px;
     font-weight: bolder;

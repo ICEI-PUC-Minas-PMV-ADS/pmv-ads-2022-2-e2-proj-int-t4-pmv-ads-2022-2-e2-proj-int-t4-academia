@@ -1,16 +1,66 @@
-header{
-    display: flex;
-    align-items: center;
+body{
+    margin: 0px;
+    padding: 0px;
+
 }
-header h1{
+.corpo{
+    display: flex;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 720px;
+
+}
+aside{
+    display: flex;
+    flex-direction: column;
+    background-color: #000;
+    height: 100%;
+    width: 400px;
+    align-items: center;
+    justify-content: space-around;
+}
+aside h1{
     margin-left: 20px;
+    color: rgba(255, 146, 51, 0.938);
+    font-size: 30px;
+    font-weight: bolder;
     
 }
+aside h3{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+}
+aside h5{
+    color: #fff;
+    font-size: 14px;
+    font-weight: lighter;
+}
+aside button{
+    background-color:rgba(255, 146, 51, 0.938);
+    columns: #fff;
+    border: #fff;
+    color: #fff;
+    border: 2px #fff solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    width: 100px;
+    height: 40px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+aside button:hover{
+    border-color: rgba(255, 180, 51, 0.938);
+    box-shadow: 2px 2px rgba(255, 180, 51, 0.938);
+}
+
 .fundoLogin{
     display: flex;
     width: 100%;
     height: 100%;
-    position: absolute;
     justify-content: center;
     align-items: center;
 }

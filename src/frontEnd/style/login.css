@@ -23,6 +23,7 @@ body{
     background-color: white;
     border-radius: 10px;
     border-radius: 10px;
+    box-shadow: 3px 3px #c6c2c2;
 }
 
 .login{

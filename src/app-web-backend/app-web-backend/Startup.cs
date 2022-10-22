@@ -69,4 +69,3 @@ namespace app_web_backend.Views
         }
     }
 }
-

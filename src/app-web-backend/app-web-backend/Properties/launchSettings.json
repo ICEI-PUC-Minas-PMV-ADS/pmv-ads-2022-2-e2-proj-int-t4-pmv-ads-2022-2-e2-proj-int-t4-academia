@@ -11,7 +11,7 @@
     "app_web_backend": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:7134;http://localhost:5134",
+      "applicationUrl": "http://localhost:57331",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }

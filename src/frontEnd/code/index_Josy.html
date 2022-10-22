@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="../style/style_Josy.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <header>
+  <div class="conteiner-logo">
+    <div class="logo-texto">
+      <h1>Falta Pouco...</h1>
+  </div>
+  </header>
+  
+    <div class="login-box">
+   <div class="profile-pic-div">
+        <img src="../img/undraw_Pic_profile_re_1865.png" id="photo" >
+        <label for="file" id="uploadBtn">Adicione sua foto</label>
+        <input type="file" id="file" required>
+      </div >
+  <div class="form-box">
+  <form action="#"> 
+    <div class="input-group">
+    <div class="gender-group">
+      <div class="gender-input"> 
+        <p>Sexo:</p>
+        <input type="radio" id="female" name="gender" value="female" required>
+      <label for="female">Feminino</label>
+    </div>
+    
+      <div class="gender-input">
+      <input type="radio" id="male" name="gender" value="male" required>
+      <label for="male">Masculino</label>
+      </div>
+    <div class="gender-input">
+      <input type="radio" id="other" name="gender" value="other" required>
+      <label for="other">LGBTQIA+</label>
+    </div>
+      <div class="gender-input">
+      <input type="radio" id="none" name="gender" value="none" required>
+      <label for="none">Prefiro não dizer</label>
+      </div>
+      
+    </div>
+      <div class="input-box">
+        <p>Data de Nascimento:</p>
+        <label for="date"></label>
+        <input id="date" type="date" name="date" min= 1932-12-31 max=2004-12-31 placeholder="Data de Nascimento" required>
+      </div>
+    <div class="input-box">
+        <label for="url"></label>
+        <input id="url" type="url" name="url" placeholder="Link da sua rede social"
+        required>
+    </div>
+
+    <div class="input-box">
+        <labelfor="cep"></label>
+          <input id="cep" type="text" name="cep"
+            placeholder="CEP do local de treino" required>
+        </div>
+  </div>
+        
+  </div>
+  </form> 
+</div>
+   <div class="continue-button">
+        <button><a href="cadstroGostos.html">Próximo</a></button>
+      </div>
+  
+
+  
+  <script src="../script/script_Josy.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>

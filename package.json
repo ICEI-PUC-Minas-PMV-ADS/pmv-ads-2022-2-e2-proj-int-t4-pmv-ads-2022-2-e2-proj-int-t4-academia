@@ -1,0 +1,26 @@
+{
+  "name": "academia",
+  "version": "1.0.0",
+  "description": "Aplicação da acadamia do grupo 4",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia.git"
+  },
+  "keywords": [
+    "trabalhoPuc"
+  ],
+  "author": "Edglei, Josyane, Renato, Stephanie e Bruno",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/issues"
+  },
+  "homepage": "https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia#readme"
+}

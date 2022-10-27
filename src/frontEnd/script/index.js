@@ -17,8 +17,8 @@ botaoCadastro.onclick = ()=>{
 
     console.log(cadastro1);
 }
- //export var cadastro = cadastro1
- var usuario = await fetch("https://dummyjson.com/carts")
+ export var cadastro = cadastro1
+ var usuario = await fetch("http://localhost:57331/Usuario", { mode: 'no-cors'})
  .catch(error =>{
     console.log(error)
  })
@@ -26,9 +26,9 @@ botaoCadastro.onclick = ()=>{
     return response.json()
  })
  console.log(usuario);
-/* const init ={
+ const init ={
     method: "POST",
     headers: {},
     body: JSON.stringify(cadastro1)
  }
- fetch("http://google.com",init)*/
+ fetch("http://localhost:57331/Usuario",init, { mode: 'cors'})

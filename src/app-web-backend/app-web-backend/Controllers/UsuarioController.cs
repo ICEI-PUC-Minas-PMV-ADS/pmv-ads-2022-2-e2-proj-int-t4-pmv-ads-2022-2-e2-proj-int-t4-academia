@@ -25,7 +25,7 @@ namespace app_web_backend.Controllers
                           View(await _context.Usuarios.ToListAsync()) :
                           Problem("Entity set 'ApplicationDbContext.Usuarios'  is null.");
         }
-
+        
         // GET: Usuario/Details/5
         public async Task<IActionResult> Details(int? id)
         {

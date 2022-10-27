@@ -11,10 +11,11 @@
     "app_web_backend": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:57331",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "sqlDebugging": false,
+      "applicationUrl": "http://localhost:57331"
     },
     "IIS Express": {
       "commandName": "IISExpress",

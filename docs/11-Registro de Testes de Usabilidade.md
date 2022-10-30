@@ -6,7 +6,7 @@ O Registro de Testes de Usabilidade é um relatório que contém as evidências 
 
 O teste foi realizado remotamente por diferentes tipos de pessoas, de variadas idades,sexo e região. O teste foi divulgado nas principais Mídias sociais: Facebook , Whatsapp e Instagram. O teste foi realizadopor familiares, amigos ,desconhecidos e veteranos do curso de Análise e Desenvolvimento de Sistemas.   
  
- Seguindo a proteção de dados dos usuários é feito de forma anônima, a fim de proteger os usuários. 
+ Seguindo a proteção de dados dos usuários o teste foi feito é  de forma anônima.
  
  Foi perguntado : "Você aceita realizar este teste de usabilidade?( Ele busca conferir o funcionamento de um aplicativo, chamado MyFriendFit, para quem procura amizades fazer exercícios físicos juntos .
 Em caso negativo , marque a opção não e descontinue o teste, por favor. Não se preocupe , o teste é anônimo e buscamos preservar sua identidade."
@@ -16,8 +16,8 @@ Em caso negativo , marque a opção não e descontinue o teste, por favor. Não 
 ## Prática de exercícios físicos dos usuários : 
 
 Como mostrado abaixo, a maioria realiza exercícios físicos, em especial anaeróbiocs, foco principal do aplicativo.
-
-<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/9706cd067bf2fd63aee358581e5e47fc2b064a07/docs/Captura%20de%20tela_20221030_163839.png />
+ 
+ <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/9706cd067bf2fd63aee358581e5e47fc2b064a07/docs/Captura%20de%20tela_20221030_163839.png />
 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/8393adcaf9e071bc35a445224c00b2e300a8f4ef/docs/Captura%20de%20tela_20221030_164138.png />
 
@@ -85,8 +85,8 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
  
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/dc12263f51fb7bceb3b5aee80107009410c2295d/docs/Captura%20de%20tela_20221030_175842.png />
  
- Os que tiveram dificuldade foram a maioria, geralmente preenchendo novamente o campo de cadastro para tentar fazer login. É notório que os usuários procuravam algum campo para preencher, que indique o login. 
- 
+ Os que tiveram dificuldade foram a maioria, geralmente preenchendo novamente o campo de cadastro para tentar fazer login, como mostrado abaixo. É notório que os usuários procuravam algum campo para preencher, que indique o login, assim como do cadastro. 
+
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/882cbbf41915f7451db9600c977e46f551cf4cc7/docs/maze_screenshot_interaction%20(7).jpg />
  
   Passos esperados que o usuário faça :
@@ -101,7 +101,7 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
  - Inserir senha
  - Logar 
  
- Os usuários que tiveram faciidade em fazer o login conseguiram preencher seus dados de forma satisfatória 
+ Os usuários que tiveram facilidade em fazer o login conseguiram preencher seus dados de forma satisfatória 
  
   <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/05733c45b76c6f39b465d2af992734478cf00ca2/docs/maze_screenshot_interaction%20(6).jpg />
  
@@ -154,8 +154,17 @@ Uma boa parte dos usuários teve dificuldade em indentificar o campo " esqueci m
 
 * USUÁRIOS COM DIFICULDADE : 
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/ee3717dfed5710d6edda411928b6e909a58ba45a/docs/Captura%20de%20tela_20221030_182158.png />
+ 
+ Os usuários com dificuldade tentam fazer o cadastro de novo ou clicam em entrar .
+ 
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/be6e69531d03fc5c2f21c98c509fede83aa243b9/docs/maze_screenshot_interaction%20(14).jpg /> 
+ 
+ <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/06d56fbd54aa9926f6d83b6aaa4d239224a51447/docs/maze_screenshot_interaction%20(12).jpg />
+ 
+ <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/06d56fbd54aa9926f6d83b6aaa4d239224a51447/docs/maze_screenshot_interaction%20(12).jpg />
 
 Passos esperados que o usuário faça : 
+
  Os usuários que concluíram a missão corretamente conseguiram identificar os campos abaixo : 
  
 * colocar o e-mail
@@ -166,7 +175,7 @@ Passos esperados que o usuário faça :
 
  | Problema| Nível de Severidade | Solução |
 |----------- |--------------------- |---------|
-|            |                     |          | 
+|     Os usuários, ao realizarem tentarem "esqueci minha senha " vão para o botão cadastrar ao  invés de entrar      |      MÉDIO              |  Modificar cor, forma, lugar, etc. O grupo ainda decidirá o melhor formato .       |  
 
 ### 6- Redefinir Senha 
 
@@ -183,8 +192,10 @@ Passos esperados que o usuário faça :
 
  | Problema| Nível de Severidade | Solução |
 |----------- |--------------------- |---------|
-|            |                     |          | 
+|   até o momento nenhum problema         |                     |          | 
 
 
 
 ## Coleta de dados 
+
+

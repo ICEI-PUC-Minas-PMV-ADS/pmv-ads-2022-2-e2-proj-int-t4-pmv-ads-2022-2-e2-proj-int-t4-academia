@@ -59,11 +59,12 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
   
  * Conseguir identificar que a plataforma pergunta sua sexualidade e saber selecionar a opção :
  
-  Os usuários que concluíram este passo souberam identificar os  campos, somente um usuário clicou em  na imagem "adicionar a foto". 
+  Os usuários que concluíram este passo souberam identificar os  campos,  porém somente um usuário clicou  no avatar para "adicionar a foto". 
   
   * Saber adicionar data de nascimento, link da rede social e cep do local :
   
   Os usuários que concluíram este passo souberam identificar os  campos.
+  
   <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/e68b2696e28b0f8da2db3b45049d4d0a3bb8ea37/docs/maze_screenshot_interaction%20(1).jpg />
   
  
@@ -114,12 +115,12 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/3e58cd79ddbd1605c10c803482c0f23209445472/docs/Captura%20de%20tela_20221030_165709.png />
  
   Passos esperados que o usuário faça : 
- - Conseguir visualizar todos os usuários recomendados
- - Selecionar os usuários
- - Identificar as informações dos usuários 
- - Ver perfil 
+ * Conseguir visualizar todos os usuários recomendados
+ * Selecionar os usuários
+ * Identificar as informações dos usuários 
+ * Ver perfil 
 
-Os usuários não tiveram dificuldade em realizar este passo , é importante notar que muitos dos cliquesforam para ver os outros usuários também, mostrando o interesse em explorar a plataforma. 
+Os usuários não tiveram dificuldade em realizar este passo , é importante notar que muitos dos cliques foram para ver os outros usuários também, mostrando o interesse em explorar a plataforma. 
  
  | Problema| Nível de Severidade | Solução |
 |----------- |--------------------- |---------|
@@ -129,9 +130,9 @@ Os usuários não tiveram dificuldade em realizar este passo , é importante not
  ### 4 - Perfil individual 
  
   Passos esperados que o usuário faça : 
- - Ver mais detalhes do usuário
- - Saber identificar quais são as informações presentes
- - Favoritar o usuário 
+ * Ver mais detalhes do usuário
+ * Saber identificar quais são as informações presentes
+ * Favoritar o usuário 
 
 Os usuários não tiveram dificuldade neste passo, o clique nos botões corretos mostra o interesse dos usuários em ver os perfis. Nenhum deles clicou nas informações dos perfis, sendo um bom sinal . 
 
@@ -145,9 +146,22 @@ Os usuários não tiveram dificuldade neste passo, o clique nos botões corretos
 
 ### 5- Esqueci a senha 
 
+Uma boa parte dos usuários teve dificuldade em indentificar o campo " esqueci minha senha".
+
+* USUÁRIOS COM FACILIDADE :
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/42d3009f7e5457313d672691a2fdd2b6f1f0f2b1/docs/Captura%20de%20tela_20221030_181554.png />
+
+* USUÁRIOS COM DIFICULDADE : 
+ <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/ee3717dfed5710d6edda411928b6e909a58ba45a/docs/Captura%20de%20tela_20221030_182158.png />
+
 Passos esperados que o usuário faça : 
-- colocar o e-mail
-- conseguir se direcionar ao emailpara ter acesso ao linkde redefinição
+ Os usuários que concluíram a missão corretamente conseguiram identificar os campos abaixo : 
+ 
+* colocar o e-mail
+ <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/9130d4be0d8c3130fe160b5f8a827c40a6141f79/docs/maze_screenshot_interaction%20(8).jpg /> 
+ 
+- conseguir se direcionar ao email para ter acesso ao link de redefinição
 - redefinir a senha
 
  | Problema| Nível de Severidade | Solução |
@@ -156,10 +170,16 @@ Passos esperados que o usuário faça :
 
 ### 6- Redefinir Senha 
 
+Os usuários que tiveram facilidade conseguiram realizar este passo 
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/5edc388185a692bbb6c82014d32793d452d68c40/docs/maze_screenshot_interaction%20(9).jpg />
+
 Passos esperados que o usuário faça : 
--Após redefir a senha , conseguir colocar a nova senha e confirmar a senha
-- Redefinir a senha 
-- Acessar novamente a tela de login , após a redefinição da senha , repetindo os passos descritos em " 2- Login na Plataforma "
+* Após redefir a senha , conseguir colocar a nova senha e confirmar a senha
+* Redefinir a senha 
+* Acessar novamente a tela de login , após a redefinição da senha , repetindo os passos descritos em " 2- Login na Plataforma "
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/208123e94f5047211cedb8fb46a6aa92e74330a5/docs/maze_screenshot_interaction%20(10).jpg />
 
  | Problema| Nível de Severidade | Solução |
 |----------- |--------------------- |---------|

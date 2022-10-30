@@ -42,18 +42,36 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
   
  - Na tela inicial, saber identificar o que é login e o que é espaço para cadastro 
   Alguns usuários ao realizar o cadastro clicavam em entrar ao invés de cadastrar, se confundindo entre os botões. 
+   
+   * GRUPO DE 46,2%
+  
+  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/b08652259be21893a6a7b4a662ff39bf71f8de97/docs/maze_screenshot_interaction.jpg />
+  
+  * GRUPO COM DIFICULDADE 
+  
+  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/280595deb0ff40d2bf7de10843612c0dbc12b101/docs/maze_screenshot_interaction%20(3).jpg />
+  
+  
  - Conseguir inserir e identificar quais dados são necessários para cadastro:
   Os grupos com facilidade e dificuldade conseguiram identificar este campo 
+  
  - Conseguir identificar que a plataforma pergunta sua sexualidade e saber selecionar a opção :
-  Os usuários que concluíram este passo souberam identificar os  campos. 
- - Saber adicionar data de nascimento, link da rede social e cep do local :
+  Os usuários que concluíram este passo souberam identificar os  campos, somente um usuário clicou em  na imagem "adicionar a foto". 
+  
+  - Saber adicionar data de nascimento, link da rede social e cep do local :
   Os usuários que concluíram este passo souberam identificar os  campos.
+  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/e68b2696e28b0f8da2db3b45049d4d0a3bb8ea37/docs/maze_screenshot_interaction%20(1).jpg />
+  
+ 
  - Conseguir selecionar as informações sobre gostos pessoais:
   Os usuários que concluíram este passo souberam identificar os  campos.
+  
+  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/411728a9e30bc085e6c735cf5fe5f7d917712b40/docs/maze_screenshot_interaction%20(2).jpg />
  
 | Problema| Nível de Severidade | Solução |
 |----------- |--------------------- |---------|
-|            |                     |          | 
+|     Os usuários, ao realizarem o cadastro vão para o botão entrar ao  invés de cadastrar       |      MÉDIO              |  Modificar cor, forma, lugar, etc. O grupo ainda decidirá o melhor formato        | 
+|   Um usuário clicou em adicionar foto    |  MÉDIO     |  Adicionado texto descritivo " adicionar sua foto " ao passar o mouse por cima do avatar. Por questão de resposividade , o avatar ficará em cima do formulário de cadastro e não do lado, como no teste acima| 
 
  ### 2 - Login na plataforma 
  

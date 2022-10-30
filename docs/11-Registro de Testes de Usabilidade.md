@@ -21,18 +21,35 @@ Como mostrado abaixo, a maioria realiza exercícios físicos, em especial anaer�
 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/8393adcaf9e071bc35a445224c00b2e300a8f4ef/docs/Captura%20de%20tela_20221030_164138.png />
 
-## Tarefas a serem executadas : 
+## Tarefas a serem executadas/Missões : 
 
+O aplicativo Maze permite quatro missões, sendo elas : 
 
+ * Cadastro do usuário 
+* Identificar o usuário
+* Fazer login
+* Recuperação e redefinição de senha
+
+Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade ( indirect sucess).
 
  ### 1 - Cadastrar o usuário na plataforma 
  
  Passos esperados que o usuário faça : 
- - Na tela inicial, saber identificar o que é login e o que é espaço para cadastro
- - Conseguir inserir e identificar quais dados são necessários para cadastro
- - Conseguir identificar que a plataforma pergunta sua sexualidade e saber selecionar a opção
- - Saber adicionar data de nascimento, link da rede social e cep do local
- - Conseguir selecionar as informações sobre gostos pessoais
+ 
+  46,2% dos usuário teve facilidade com a plataforma, entretanto  o restante teve dificuldade em concluir o cadastro, clicando em entrar após preencher seus dados. 
+  
+  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/68e5d92cf88258b8dbe967b80cedab12942160b8/docs/Captura%20de%20tela_20221030_165623.png />
+  
+ - Na tela inicial, saber identificar o que é login e o que é espaço para cadastro 
+  Alguns usuários ao realizar o cadastro clicavam em entrar ao invés de cadastrar, se confundindo entre os botões. 
+ - Conseguir inserir e identificar quais dados são necessários para cadastro:
+  Os grupos com facilidade e dificuldade conseguiram identificar este campo 
+ - Conseguir identificar que a plataforma pergunta sua sexualidade e saber selecionar a opção :
+  Os usuários que concluíram este passo souberam identificar os  campos. 
+ - Saber adicionar data de nascimento, link da rede social e cep do local :
+  Os usuários que concluíram este passo souberam identificar os  campos.
+ - Conseguir selecionar as informações sobre gostos pessoais:
+  Os usuários que concluíram este passo souberam identificar os  campos.
  
 | Problema| Nível de Severidade | Solução |
 |----------- |--------------------- |---------|

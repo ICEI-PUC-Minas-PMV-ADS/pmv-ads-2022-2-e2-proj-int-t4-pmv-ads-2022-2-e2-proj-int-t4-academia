@@ -120,4 +120,4 @@ A Plataforma Maze também realiza pesquisas aos usuários e faz as médias de da
 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/main/docs/img/exemplomaze.png />
 
-
+  

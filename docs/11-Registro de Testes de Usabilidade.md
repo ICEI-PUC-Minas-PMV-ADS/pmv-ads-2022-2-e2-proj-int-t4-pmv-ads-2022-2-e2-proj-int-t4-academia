@@ -4,9 +4,9 @@ O Registro de Testes de Usabilidade é um relatório que contém as evidências 
 
 ## Consentimento do usuário : 
 
-O teste foi realizado remotamente por diferentes tipos de pessoas, de variadas idades,sexo e região. O teste foi divulgado nas principais Mídias sociais: Facebook , Whatsapp e Instagram. O teste foi realizadopor familiares, amigos ,desconhecidos e veteranos do curso de Análise e Desenvolvimento de Sistemas.   
+O teste foi realizado remotamente por diferentes tipos de pessoas, de variadas idades,sexo e região. O teste foi divulgado nas principais Mídias sociais: Facebook , Whatsapp e Instagram. O teste foi realizado por familiares, amigos ,desconhecidos e veteranos do curso de Análise e Desenvolvimento de Sistemas.   
  
- Seguindo a proteção de dados dos usuários o teste foi feito é  de forma anônima.
+ Seguindo a proteção de dados dos usuários ,o teste é feito de forma anônima.
  
  Foi perguntado : "Você aceita realizar este teste de usabilidade?( Ele busca conferir o funcionamento de um aplicativo, chamado MyFriendFit, para quem procura amizades fazer exercícios físicos juntos .
 Em caso negativo , marque a opção não e descontinue o teste, por favor. Não se preocupe , o teste é anônimo e buscamos preservar sua identidade."
@@ -155,13 +155,12 @@ Uma boa parte dos usuários teve dificuldade em indentificar o campo " esqueci m
 * USUÁRIOS COM DIFICULDADE : 
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/ee3717dfed5710d6edda411928b6e909a58ba45a/docs/Captura%20de%20tela_20221030_182158.png />
  
- Os usuários com dificuldade tentam fazer o cadastro de novo ou clicam em entrar .
+ Os usuários com dificuldade tentam fazer o cadastro de novo ou clicam em entrar :
  
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/be6e69531d03fc5c2f21c98c509fede83aa243b9/docs/maze_screenshot_interaction%20(14).jpg /> 
  
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/06d56fbd54aa9926f6d83b6aaa4d239224a51447/docs/maze_screenshot_interaction%20(12).jpg />
  
- <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/06d56fbd54aa9926f6d83b6aaa4d239224a51447/docs/maze_screenshot_interaction%20(12).jpg />
 
 Passos esperados que o usuário faça : 
 
@@ -175,7 +174,7 @@ Passos esperados que o usuário faça :
 
  | Problema| Nível de Severidade | Solução |
 |----------- |--------------------- |---------|
-|     Os usuários, ao realizarem tentarem "esqueci minha senha " vão para o botão cadastrar ao  invés de entrar      |      MÉDIO              |  Modificar cor, forma, lugar, etc. O grupo ainda decidirá o melhor formato .       |  
+|     Os usuários, ao  tentarem "esqueci minha senha " vão para o botão cadastrar ou entrar    |      MÉDIO              |  Modificar cor, forma, lugar, etc. O grupo ainda decidirá o melhor formato .       |  
 
 ### 6- Redefinir Senha 
 
@@ -196,6 +195,26 @@ Passos esperados que o usuário faça :
 
 
 
-## Coleta de dados 
+## Coleta de dados  
+
+
+* Recomendações e Elogios :
+
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/475c55c6d5239489f8bf04c6d914e1ca9e40ed83/docs/Captura%20de%20tela_20221030_190126.png />
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/dfe79c1f40ca93f4d06a56932aab8f07ef79ef7e/docs/Captura%20de%20tela_20221030_190154.png />
+
+
+* Nível de dificuldade : 
+
+<img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/1a3f112d6da23f6c4c0486a57b0b4da8dba808fc/docs/Captura%20de%20tela_20221030_190803.png />
+
+*  O quanto você gostou da plataforma ?
+
+ <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/497439ce2cf2a0ba8ff62672190daad0afa14e14/docs/Captura%20de%20tela_20221030_191020.png />
+ 
+ 
+ Até o presente momento , 34 pessoas clicaram no teste . O que é um ótimo número para realizar um teste sólido. 
 
 

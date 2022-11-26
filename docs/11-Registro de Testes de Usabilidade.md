@@ -1,6 +1,10 @@
 # Registro de Testes de Usabilidade
 
-O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa. O teste foi realizado pela plataforma Maze neste link : 
+O Registro de Testes de Usabilidade é um relatório que contém as evidências dos testes e relatos dos usuários participantes, baseado no Plano de Testes de Usabilidade desenvolvido para os casos de uso desta etapa.
+
+O teste foi realizado pela plataforma Maze neste link : https://app.maze.co/report/New-maze-2/3i3j9il9ow6n1h/intro
+
+Você pode usar uma ferramenta externa para tradução da página ou clicar em traduzir quando recomendado pelo google, a fim de promover melhor entendimento da plataforma, que é de origem americana . 
 
 ## Consentimento do usuário : 
 
@@ -32,11 +36,11 @@ O aplicativo Maze permite quatro missões, sendo elas :
 
 Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade ( indirect sucess).
 
- ### 1 - Cadastrar o usuário na plataforma 
+ ### 1 - Cadastrar o usuário na plataforma : usuário deve preencher seus dados corretamente , sendo eles  nome, email, senha e confirmar senha, clicando por último no botão "cadastrar". Após isso, aparecerá a página de incluir o sexo, foto, data de nascimento , link da rede social favorita e cep do local de treino, clicando a seguir no botão "próximo". Depois , o usuário acessa uma página onde irá selecionar seus esportes/exercícios preferidos, clicando no botão "finalizar".
  
  Passos esperados que o usuário faça : 
  
-  46,2% dos usuário teve facilidade com a plataforma, entretanto  o restante teve dificuldade em concluir o cadastro, clicando em entrar após preencher seus dados. 
+  46,2% dos usuário teve **facilidade** com a plataforma, entretanto  o restante , 42,3% ,teve **dificuldade** em concluir o cadastro, clicando em "entrar" após preencher seus dados na página inicial. 
   
   <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/68e5d92cf88258b8dbe967b80cedab12942160b8/docs/Captura%20de%20tela_20221030_165623.png />
   
@@ -55,7 +59,7 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
   
  * Conseguir inserir e identificar quais dados são necessários para cadastro:
  
-  Os grupos com facilidade e dificuldade conseguiram identificar este campo 
+  Os grupos com **facilidade** e **dificuldade** conseguiram identificar este campo .
   
  * Conseguir identificar que a plataforma pergunta sua sexualidade e saber selecionar a opção :
  
@@ -79,7 +83,7 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
 |     Os usuários, ao realizarem o cadastro vão para o botão entrar ao  invés de cadastrar       |      MÉDIO              |  Modificar cor, forma, lugar, etc. O grupo ainda decidirá o melhor formato        | 
 |   Um usuário clicou em adicionar foto    |  MÉDIO     |  Adicionado texto descritivo " adicionar sua foto " ao passar o mouse por cima do avatar. Por questão de resposividade , o avatar ficará em cima do formulário de cadastro e não do lado, como no teste acima| 
 
- ### 2 - Login na plataforma 
+ ### 2 - Login na plataforma : Na página inicial , do lado do campo de cadastro há um botão laranja escrito "entrar", o usuário já cadastrado deve clicar diretamente nele e acessar a página Login, inserindo e-mail e senha e clicando no  novo botão "entrar". 
  
  A minoria dos usuários teve facilidade em fazer login , cerca de 33,3 % 
  
@@ -97,9 +101,9 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
  
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/a716a1e5ead876726c45c8132d8568aea5b6b39d/docs/maze_screenshot_interaction%20(5).jpg />
  
- - Saber quais dados são necessários para login
- - Inserir senha
- - Logar 
+ * Saber quais dados são necessários para login: 
+ - Inserir senha e email
+ - ENTRAR 
  
  Os usuários que tiveram facilidade em fazer o login conseguiram preencher seus dados de forma satisfatória 
  
@@ -110,7 +114,7 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
 |     Os usuários, ao realizarem o cadastro vão para o botão cadastrar ao  invés de entrar      |      MÉDIO              |  Modificar cor, forma, lugar, etc. O grupo ainda decidirá o melhor formato .       |  
 
 
- ### 3 -  A plataforma deve direcionar usuários recomendados
+ ### 3 -  A plataforma deve direcionar usuários recomendados : Após fazer Login ou cadastro, o programa direciona o usuário a outros usuários recomendados . É pedido que o participante do teste acesse o perfil de Isabel Soares, dentre os demais perfis. 
  
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/3e58cd79ddbd1605c10c803482c0f23209445472/docs/Captura%20de%20tela_20221030_165709.png />
  
@@ -118,7 +122,7 @@ Vamos dividir os grupos de usuários em facilidade(direct sucess) e dificuldade 
  * Conseguir visualizar todos os usuários recomendados
  * Selecionar os usuários
  * Identificar as informações dos usuários 
- * Ver perfil 
+ * Ver perfil de Isabel Soares .
 
 Os usuários não tiveram dificuldade em realizar este passo , é importante notar que muitos dos cliques foram para ver os outros usuários também, mostrando o interesse em explorar a plataforma. 
  
@@ -127,7 +131,7 @@ Os usuários não tiveram dificuldade em realizar este passo , é importante not
 |      Até o momento, nenhum problema detectado      |                     |          | 
 
 
- ### 4 - Perfil individual 
+ ### 4 - Perfil individual : Quando mostrado o perfil de Isabel Soares isoladamente é esperado que o usuário participante não clique em nada, leia sobre a pessoa, e clique no botão "favoritar" . 
  
   Passos esperados que o usuário faça : 
  * Ver mais detalhes do usuário
@@ -144,9 +148,9 @@ Os usuários não tiveram dificuldade neste passo, o clique nos botões corretos
 
 
 
-### 5- Esqueci a senha 
+### 5- Esqueci a senha : Na página inicial, abaixo do botão Entrar , há um texto pequeno e sublinhado, com função de botão escrito "esqueci minha senha". O usuário deve acessar esse botão diretamente para ir a página de inserir seu email cadastrado, colocar o email, clicar no botão redefinir senha, acessar a próxima página,  trocar a senha, inserindo nos campos senha e confirmar senha,, clicar no botão redefinir senha e voltar a página de login com a nova senha atualizada. 
 
-Uma boa parte dos usuários teve dificuldade em indentificar o campo " esqueci minha senha".
+Uma boa parte dos usuários teve **dificuldade** em indentificar o campo " esqueci minha senha" na página inicial.
 
 * USUÁRIOS COM FACILIDADE :
 
@@ -176,9 +180,9 @@ Passos esperados que o usuário faça :
 |----------- |--------------------- |---------|
 |     Os usuários, ao  tentarem "esqueci minha senha " vão para o botão cadastrar ou entrar    |      MÉDIO              |  Modificar cor, forma, lugar, etc. O grupo ainda decidirá o melhor formato .       |  
 
-### 6- Redefinir Senha 
+### 6- Redefinir Senha : Os passos acima , porém são resultados daqueles que conseguiram identificar o  botão " esqueci minha senha ". Usuários que não idenficaram esse botão acabaram acessando outras páginas , desviando da etapa proposta.
 
-Os usuários que tiveram facilidade conseguiram realizar este passo 
+Os usuários que tiveram **facilidade** conseguiram realizar este passo 
 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/5edc388185a692bbb6c82014d32793d452d68c40/docs/maze_screenshot_interaction%20(9).jpg />
 
@@ -195,10 +199,10 @@ Passos esperados que o usuário faça :
 
 
 
-## Coleta de dados  
+# Coleta de dados  
 
 
-* Recomendações e Elogios :
+## Recomendações e Elogios :
 
 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/475c55c6d5239489f8bf04c6d914e1ca9e40ed83/docs/Captura%20de%20tela_20221030_190126.png />
@@ -206,15 +210,38 @@ Passos esperados que o usuário faça :
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/dfe79c1f40ca93f4d06a56932aab8f07ef79ef7e/docs/Captura%20de%20tela_20221030_190154.png />
 
 
-* Nível de dificuldade : 
+## Nível de dificuldade : 
 
 <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/1a3f112d6da23f6c4c0486a57b0b4da8dba808fc/docs/Captura%20de%20tela_20221030_190803.png />
 
-*  O quanto você gostou da plataforma ?
+##  O quanto você gostou da plataforma ?
 
  <img src=https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e2-proj-int-t4-pmv-ads-2022-2-e2-proj-int-t4-academia/blob/497439ce2cf2a0ba8ff62672190daad0afa14e14/docs/Captura%20de%20tela_20221030_191020.png />
  
  
- Até o presente momento , 34 pessoas clicaram no teste . O que é um ótimo número para realizar um teste sólido. 
+ **Até o presente momento , 34 pessoas clicaram no teste ,o que é um ótimo número para realizar um teste sólido. O teste não foi fechado , por isso o link dos resultados pode sofrer variações dentro do limite esperado. Assim como em pesquisas eleitorais , por exemplo, dados por porcentagem podem sofrer pequenas variações, chamadas de margem de erro.Em média, Este teste tem uma margem de erro de 4% a 7% para mais ou para menos.**
+ 
+ # Avaliação Heurística 
+ 
+ De acordo com o site Soft Design, a avaliação heurística *"são diretrizes de design que orientam e podem ser aplicadas na criação da maioria das interfaces de produtos e serviços digitais ou físicos, com o intuito de promover boas experiências de uso"*.
+ 
+ |Heurística|Melhoria|
+ |----------|---------|
+ |Visibilidade do status do sistema|    | 
+ |Correspondência entre o sistema e o mundo real|      |  
+ | Liberdade e controle do usuário|           |
+ |Consistência e padrões|                    |
+ |Prevenção de erros|       | 
+ |Reconhecer ao invés de lembrar|          |
+ |Flexibilidade e eficiência|      | 
+ |Estética e design minimalista|         |
+ |Auxiliar usuários a reconhecer, diagnosticar e recuperar erros|      | 
+ |Ajuda e documentação|       | 
+ 
+ ### Avaliação funcional 
+ 
+ |Problema|Resolução deste problema |
+ |--------|-------------------------|
+ |        |                          |
 
 

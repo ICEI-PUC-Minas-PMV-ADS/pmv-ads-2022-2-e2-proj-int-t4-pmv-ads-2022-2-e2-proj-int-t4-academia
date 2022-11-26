@@ -227,16 +227,16 @@ Passos esperados que o usuário faça :
  
  |Heurística|Melhoria|
  |----------|---------|
- |Visibilidade do status do sistema|    | 
- |Correspondência entre o sistema e o mundo real|      |  
- | Liberdade e controle do usuário|           |
- |Consistência e padrões|                    |
- |Prevenção de erros|       | 
- |Reconhecer ao invés de lembrar|          |
- |Flexibilidade e eficiência|      | 
- |Estética e design minimalista|         |
- |Auxiliar usuários a reconhecer, diagnosticar e recuperar erros|      | 
- |Ajuda e documentação|       | 
+ |Visibilidade do status do sistema|  Não há nada para modificar, visto que os inputs (campos para preenchimento de dados) apresentam aviso de que não foi preenchido. Os campos de seleção de exercício físico também têm as bolinhas bem definidas , indicando que foi selecionado ao não. Quanto ao envio da imagem de perfil do usuário, ela pode ser pré visualizada antes do envio . Também há um texto, ao passar o mouse por cima, indicando a adição da foto| 
+ |Correspondência entre o sistema e o mundo real| Como mostrado no teste realizado, alguns usuários tem dificuldade de interpretar , por exemplo, a palavra "entrar" e "cadastrar" , sendo necessário mudança na escrita e no comando . Os ícones/ símbolos são usados no sistema para facilitar o entendimento do usuário . |  
+ | Liberdade e controle do usuário|  É possível voltar a página alterior. Um exemplo é a possibilidade de voltar do perfil de Isabel Soares para a página de usuários recomendados. O único problema é que não é possível desfavoritar o usuário selecionado, não podendo desfazer essa ação. |
+ |Consistência e padrões|  O sistema apresenta uma ótima repetição de comandos , um exemplo é os botões cadastrar, que são as mesmas escritas durante essa etapa. Foi notório no teste de usabilidade que os usuários entendem a diferença entre botão e informação. Na etapa de adicionar foto para cadastro, o avatar foi colocado em cima ao invés do lado(como mostrado no wireframe) por questão de responsividade, ficando congruente com a sugestão de usuários e visualização do perfil individual que têm o avatar no topo |
+ |Prevenção de erros|   Os inputs indicam o preenchimento, porém é possível enviar o formulário mesmo não preenchendo alguma informação, o que é um erro.    | 
+ |Reconhecer ao invés de lembrar|  O usuário só tem a opção de "esqueci minha senha",, o sistema não lembra qual senha cadastrada e nem sugere senhas. Não há nenhuma aba feita que indique qual usuário foi favoritado . |
+ |Flexibilidade e eficiência|  Com o teste de usabilidade , é possível identificar que alguns usuários novatos têm facilidade com o sistema e outros têm dificuldade.  Infelizmente não foram encontrados usuários com deficiência, mas por questão de inclusão, as páginas que contém o sistema VLibras, disponibilizado pelo governo federal, foram testadas e o personagem consegue ler os comandos propostos na página.   | 
+ |Estética e design minimalista|   O sistema apresenta 3 cores, sendo elas preto, laranja claro e laranja escuro, é de fácil leitura e não têm grandes informações. O problema mesmo é a diferenciação de botões logo no início da página, confundindo os usuários nas etapas seguintes.       |
+ |Auxiliar usuários a reconhecer, diagnosticar e recuperar erros|  Os ícones de notificação e usuários adiconados( presentes na página usuários recomendados ) apresentam duas páginas, ao serem clicados, com um indicativo de que não foram criadas e possibilitam a volta do usuário a páginas recomendadas. Não há menssagens de erro para a etapa de cadastro, o que caracteriza um problema. O botão esqueci minha senha não deixa claro ao usuário que ele deve clicar ali e não está presente na página login, caso o usuário se esqueça da senha, sendo necessário voltar a pagina inicial para mudar a senha, caracterizando um problema.  | 
+ |Ajuda e documentação|    O sistema não apresenta abas para ajuda , somente informações do que aquela página indica. Um exemplo é o comando : " Acesse sua conta" ou "Digite e confirme sua senha" . | 
  
  ### Avaliação funcional 
  

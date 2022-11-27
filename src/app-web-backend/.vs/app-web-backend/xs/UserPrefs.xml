@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{BE72B0DE-2E4C-4587-9328-730DD9863A6F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="app-web-backend/Controllers/UsuarioController.cs">
+    <Files>
+      <File FileName="app-web-backend/Models/Usuario.cs" Line="13" Column="13" />
+      <File FileName="app-web-backend/Program.cs" Line="27" Column="2" />
+      <File FileName="app-web-backend/appsettings.json" Line="10" Column="93" />
+      <File FileName="app-web-backend/Startup.cs" Line="71" Column="2" />
+      <File FileName="app-web-backend/Views/Shared/_Layout.cshtml" Line="32" Column="23" />
+      <File FileName="app-web-backend/Controllers/UsuarioController.cs" Line="24" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="app-web-backend" expanded="True">
+            <Node name="app-web-backend" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.app-web-backend PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

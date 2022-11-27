@@ -1,31 +1,168 @@
 # Plano de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
+O plano de testes consiste num conjunto de ações que visa verificar se cada funcionalidade criada para o programa funciona tal como foi planejada. Cada uma dessas ações estabelece critérios para determinar se a funcionalidade a ser testada está ou não dentro do planejado.  
 
-Não deixe de enumerar os casos de teste de forma sequencial e de garantir que o(s) requisito(s) associado(s) a cada um deles está(ão) correto(s) - de acordo com o que foi definido na seção "2 - Especificação do Projeto". 
+Os requisitos necessários para a realização dos testes de software são: 
 
-Por exemplo:
+* A publicação do aplicativo; 
+
+* Navegador da Internet - Chrome, Firefox ou Edge para acessar o aplicativo; 
+
+* Conectividade de Internet para o acesso às plataformas. 
+
+Os testes funcionais a serem realizados são os seguintes:
+
+
+## 01-Verificação no banco de dados das informações cadastradas pelo usuário
+
+|Caso de Teste|CT- 01 - Verificação no banco de dados das informações cadastradas pelo usuário|
+|------------|---------------------------------------------|
+|**Requisitos Associados**| RF-01, RF-02, RF-03; RNF-01, RNF-06. |
+|**Objetivo do teste**|Verificar se os dados preenchidos pelo usuário são gravados no banco de dados. |
+|**Passos**|1- Acessar o Navegador| 
+|2| Informar o endereço do site.|  
+|3|Clicar em “Entrar” para acessar a tela de login.| 
+|4| Informar o e-mail e a senha na tela de login. |
+|5|Clicar em "Entrar" ;| 
+|6|Confirmar se as informações foram gravadas no banco de dados.|
+|**Critérios de Êxito**|1- Preencher informações solicitadas| 
+|2| E-mail conter formato padrão (xxxx@xxxx.com.br) |
+|3| Qualquer tipo de string |
+|4| Seguido por um caractere @ (obrigatório em e-mails) |
+|5| Seguido por um domínio/provedor (hotmail/gmail) |
+|6| Seguido por um ponto obrigatório (.) |
+|7| Texto validando o e-mail (com/com.br) |
+
+## 02-Validação do e-mail
+
+|Caso de Teste|CT- 02 - Validação do e-mail|
+|------------|---------------------------------------------|
+|**Requisitos Associados**| RF-01, RF-02, RF-03; RNF-01, RNF-06. |
+|**Objetivo do teste**|Verificar a validade do e-mail cadastrado. |
+|**Passos**|1- Acessar o Navegador| 
+|2| Informar o endereço do site.|  
+|3|Clicar em esqueci minha senha. | 
+|4| Inserir e-mail cadastrado. |
+|5|Confirmar e-mail e enviar instruções para e-mail cadastrado.| 
+|**Critérios de Êxito**|1- Possui cadastro no site.| 
+|2| E-mail conter formato padrão (xxxx@xxxx.com.br).  |
+|3| Qualquer tipo de string |
+|4| Seguido por um caractere @ (obrigatório em e-mails) |
+|5| Seguido por um domínio/provedor (hotmail/gmail) |
+|6| Seguido por um ponto obrigatório (.) |
+|7| Texto validando o e-mail (com/com.br) |
  
-| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
-|:---:	|:---:	|
-|	Requisito Associado 	| RF-00X - A aplicação deve apresentar, na página principal, a funcionalidade de cadastro de usuários para que esses consigam criar e gerenciar seu perfil. |
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar em "Criar conta" <br> - Preencher os campos obrigatórios (e-mail, nome, sobrenome, celular, CPF, senha, confirmação de senha) <br> - Aceitar os termos de uso <br> - Clicar em "Registrar" |
-|Critério de Êxito | - O cadastro foi realizado com sucesso. |
-|  	|  	|
-| Caso de Teste 	| CT-02 – Efetuar login	|
-|Requisito Associado | RF-00Y	- A aplicação deve possuir opção de fazer login, sendo o login o endereço de e-mail. |
-| Objetivo do Teste 	| Verificar se o usuário consegue realizar login. |
-| Passos 	| - Acessar o navegador <br> - Informar o endereço do site https://adota-pet.herokuapp.com/src/index.html<br> - Clicar no botão "Entrar" <br> - Preencher o campo de e-mail <br> - Preencher o campo da senha <br> - Clicar em "Login" |
-|Critério de Êxito | - O login foi realizado com sucesso. |
+ ## 03-Validação da senha redefinida
 
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Práticas e Técnicas de Testes Ágeis](http://assiste.serpro.gov.br/serproagil/Apresenta/slides.pdf)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+|Caso de Teste|CT- 03 - Validação da senha redefinida |
+|------------|---------------------------------------------|
+|**Requisitos Associados**| RF-01, RF-02, RF-03; RNF-01, RNF-06. |
+|**Objetivo do teste**|Verificar a validade de uma senha redefinida.  |
+|**Passos**|1- Acessar o Navegador| 
+|2| Informar o endereço do site.|  
+|3|Clicar em "esqueci minha senha". | 
+|4| Inserir e-mail cadastrado. |
+|5|Digitar a nova senha.| 
+|6| Voltar à página de Login|
+|7| Digitar email e senha.|
+|**Critérios de Êxito**|1- Possui cadastro no site.| 
+|2| E-mail conter formato padrão (xxxx@xxxx.com.br).|
+|3| Qualquer tipo de string |
+|4| Seguido por um caractere @ (obrigatório em e-mails) |
+|5| Seguido por um domínio/provedor (hotmail/gmail) |
+|6| Seguido por um ponto obrigatório (.) |
+|7| Texto validando a redefinição de senha.|
+
+
+## 04-Verificação no banco de dados das preferências cadastradas pelo usuário 
+
+|Caso de Teste|CT- 04 - Verificação no banco de dados das preferências cadastradas pelo usuário  |
+|------------|---------------------------------------------|
+|**Requisitos Associados**| RF-01, RF-02, RF-03; RNF-01, RNF-06. |
+|**Objetivo do teste**|Verificar a validade de uma senha redefinida.  |
+|**Passos**|1- Acessar o Navegador| 
+|2| Informar o endereço do site.|  
+|3|Clicar realizar cadastro e clicar em "cadastrar". | 
+|4| Acessar a página de "finalizaçao de cadastro" terminar o cadastro e clicar em "cadastrar" |
+|5| Na página “Checkbox”, marcar algumas checkbox (exercícios preferidos) para criar um perfil de atividades preferidas| 
+|6| Clicar no botão “Finalizar”.|
+|7| Verificar no banco de dados se as informações foram recebidas.|
+|**Critérios de Êxito**|1- Possui cadastro no site.| 
+|2| E-mail conter formato padrão (xxxx@xxxx.com.br).|
+|3| Qualquer tipo de string |
+|4| Seguido por um caractere @ (obrigatório em e-mails) |
+|5| Seguido por um domínio/provedor (hotmail/gmail) |
+|6| Seguido por um ponto obrigatório (.) |
+|7|A apresentação da página “Sugestões”, com perfis compatíveis apresentar usuários compatíveis|
+
+## 05-Verificação da tela Sugestões
+
+
+|Caso de Teste|CT- 05 - Verificação da tela Sugestões  |
+|------------|---------------------------------------------|
+|**Requisitos Associados**| RF-01, RF-02, RF-03, RF-04 RF-04 RF-06 RF-07 RF-09; RNF-01, RNF-02, RNF-03, RNF-06. |
+|**Objetivo do teste**|Verificar se o programa está produzindo sugestões de usuários compatíveis com base no perfil cadastrado por um usuário.|
+|**Passos**|1- Acessar o Navegador| 
+|2| Informar o endereço do site.|  
+|3|Clicar em "entrar". | 
+|4| Inserir e-mail cadastrado e senha. |
+|5| Na página “Checkbox”, marcar algumas checkbox para criar um perfil de atividades | 
+|6|  Clicar no botão “Finalizar”.|
+|7| Verificar se, ao clicar, a página “Sugestões” abre, apresentando perfis compatíveis.|
+|**Critérios de Êxito**|1- Possui cadastro no site.| 
+|2| E-mail conter formato padrão (xxxx@xxxx.com.br).|
+|3| Qualquer tipo de string |
+|4| Seguido por um caractere @ (obrigatório em e-mails) |
+|5| Seguido por um domínio/provedor (hotmail/gmail) |
+|6| Seguido por um ponto obrigatório (.) |
+|7| A apresentação da página “Sugestões”, com perfis compatíveis apresentar usuários compatíveis.|
+
+## 06-Verificação da tela Perfil do usuário Isabel Soares
+
+|Caso de Teste|CT- 06 - CT- 06 - Verificação da tela Perfil do usuário Isabel Soares|
+|------------|---------------------------------------------|
+|**Requisitos Associados**|  RF-01, RF-02, RF-03, RF-04 RF-04 RF-06 RF-07 RF-09; RNF-01, RNF-02, RNF-03, RNF-04, RNF-06. |
+|**Objetivo do teste**|Verificar se a tela “Perfil” funciona, apresentando as informações do usuário.|
+|**Passos**|1- Acessar o Navegador| 
+|2| Informar o endereço do site.|  
+|3|Clicar em “Entrar” para acessar a tela de login. | 
+|4|Informar o e-mail e a senha na tela de login.  |
+|5|Clicar em "Entrar" .| 
+|6| Verificar se a tela “Sugestões de Perfis” aparece.|
+|7| Acha o perfil de Isabel Soares e clicar em "ver Perfil".|
+|8| Verificar se a tela “Perfil” aparece.|
+|9| Ver o perfil de Isabel Soares e " Favoritar"|
+|**Critérios de Êxito**|1- Possui cadastro no site.| 
+|2| E-mail conter formato padrão (xxxx@xxxx.com.br).|
+|3| Qualquer tipo de string |
+|4| Seguido por um caractere @ (obrigatório em e-mails) |
+|5| Seguido por um domínio/provedor (hotmail/gmail) |
+|6| Seguido por um ponto obrigatório (.) |
+|7| A apresentação da página “Perfil”, com o perfil do usuário.|
+
+## 07-Testar a responsividade e navegabilidade em diferentes tamanhos de telas
+
+
+|Caso de Teste|CT- 07 -Testar a responsividade e navegabilidade em diferentes tamanhos de telas|
+|------------|---------------------------------------------|
+|**Requisitos Associados**| RF-01, RF-02, RF-03; RNF-01, RNF-02, RNF-03, RNF-04, RNF-05, RNF-06.  |
+|**Objetivo do teste**|Testar se o Aplicativo MyFriendFit é um Software responsivo, sendo possível navegar  e visualizar claramente todos os itens da página.  |
+|**Passos**|1- Acessar o Navegador| 
+|2|  Acessar a HomePage (index.html)|  
+|3|Acessar o Login | 
+|4| Acessar a Sugestão de Usuários |
+|5|Acessar o Perfil de Isabel Soares| 
+|6| Acessar novamente da Home Page|
+|7| Acessar a página Cadastro|
+|8| Acessar a página de continuidade do cadastro (adicionar foto, data de nascimento , etc)|
+|9| Acessar a página de Checkbox de Exercícios Físicos e finalizar o cadastro|
+|10| Visualizar os perfis recomendados|
+|**Critérios de Êxito**|Verificar a legilibilidade de todos os itens da páginas em diferentes tamanhos de tela.| 
+
+
+
+
+
+
+

@@ -1,12 +1,22 @@
 # Registro de Testes de Software
 
-<span style="color:red">Pré-requisitos: <a href="3-Projeto de Interface.md"> Projeto de Interface</a></span>, <a href="8-Plano de Testes de Software.md"> Plano de Testes de Software</a>
+### 01 - Verificação no banco de dados das informações cadastradas pelo usuário 
 
-Para cada caso de teste definido no Plano de Testes de Software, realize o registro das evidências dos testes feitos na aplicação pela equipe, que comprovem que o critério de êxito foi alcançado (ou não!!!). Para isso, utilize uma ferramenta de captura de tela que mostre cada um dos casos de teste definidos (obs.: cada caso de teste deverá possuir um vídeo do tipo _screencast_ para caracterizar uma evidência do referido caso).
+**02 - Validação do e-mail** 
 
-## Avaliação
+**03 - Validação da senha redefinida**  
 
-Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
+**04 - Verificação no banco de dados das preferências cadastradas pelo usuário**
 
-> **Links Úteis**:
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
+**05 - Verificação da tela Sugestões**
+
+**06 - Verificação da tela Perfil do usuário Isabel Soares:** 
+
+Devido ao erro de CROS que está ocorrendo, quando estamos consumindo o BackEnd a partir do comando Fetch, com o método Post, ou Get, não conseguimos realizar o teste de software dos itens acima. 
+
+## 07 - Testar a responsividade no smartphone e navegabilidade
+
+  A tela inicial que tem duas repartições : entrar e realizar cadastro estão responsivas em dispositivos menores. Na telas de finalizar cadastro , recuperação de senha, redefiniçao de senha e login os componentes ficam alinhados. A tela de sugestão de usuários , por exemplo , ao ser diminuída mostra 1 usuário ao inves de 3 , quando está em telas menores, podendo mesmo assim passar para o lado e ver outros usuários. Na tela de Perfil individual, é possível ver as informações corretamente e a seta para voltar a sugestão de usuários fica no topo da página, qunado diminuida a tela, ao invés do lado por questão de resposividade.
+  
+  As páginas que contém ícones eles não somem, acompanham o tamanho do cabeçalho e ficam próximas ao título quando diminuídas .
+
